@@ -1,0 +1,35 @@
+body {
+  font-family: 'Cabin Sketch', cursive;
+  text-align: center;
+}
+
+hr {
+  color: black;
+  border-color: black;
+  background-color: black;
+}
+
+.header {
+  font-size: 110px;
+}
+
+.main {
+  margin: 40px 0 60px 0;
+}
+
+.introduction {
+  margin: auto;
+  text-align: left;
+  font-size: 21px;
+}
+
+footer {
+  font-size: 30px;
+}
+
+a {
+  color: inherit;
+}
+.copyright {
+  font-size: 15px;
+}
